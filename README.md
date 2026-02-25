@@ -1,18 +1,13 @@
 # Gym Attendance Data Analysis
 
 ## Description
-This project analyzes gym attendance data using Python and Jupyter Notebook. 
-The goal is to understand attendance patterns, trends over time, and user behavior based on the provided dataset.
+This project analyzes gym attendance data using Python and Jupyter Notebook. The goal is to understand attendance patterns, identify peak hours/days, and gain useful insights from the dataset.
+
+The analysis includes data cleaning, basic statistics, and visualizations to better understand user behavior and attendance trends.
 
 ## Dataset
-- `Gym_Attendance_Dataset.xlsx`  
-This file contains attendance records used for analysis.
-
-## Analysis Performed
-- Data cleaning and preprocessing  
-- Attendance trend analysis  
-- Basic statistics  
-- Visualizations for insights  
+- Gym_Attendance_Dataset.xlsx  
+  This file contains the raw attendance records used for the analysis.
 
 ## Tools & Technologies
 - Python  
@@ -22,9 +17,9 @@ This file contains attendance records used for analysis.
 - Jupyter Notebook  
 
 ## How to Run
-1. Download the repository  
+1. Download this repository  
 2. Open `gym_attendance_analysis.ipynb` in Jupyter Notebook  
-3. Run cells step by step  
+3. Run the cells step by step  
 
 ## Conclusion
-The analysis helps in understanding peak attendance times and patterns which can be useful for gym management.
+This project shows how attendance data can be analyzed to find useful patterns for better planning.
