@@ -3,8 +3,7 @@ import pandas as pd
 
 st.title("Gym Attendance Analysis")
 
-df = pd.read_excel("../Dataset/Gym_Attendance_Dataset.xlsx")
-
+df = pd.read_excel("Datasets/Gym_Attendance_Dataset.xlsx")
 st.subheader("Raw Data")
 st.dataframe(df)
 
