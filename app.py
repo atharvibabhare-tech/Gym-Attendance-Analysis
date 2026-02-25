@@ -2,15 +2,15 @@ import streamlit as st
 import pandas as pd
 
 st.set_page_config(page_title="Gym Attendance Analysis", layout="wide")
-st.title("🏋️ Gym Attendance Analysis")
+st.title("Gym Attendance Analysis")
 
 # Load dataset
 df = pd.read_excel("Datasets/Gym_Attendance_Dataset.xlsx")
 
-st.header("📊 Raw Data")
+st.header("Raw Data")
 st.dataframe(df)
 
-st.header("📈 Basic Stats")
+st.header("Basic Stats")
 st.dataframe(df.describe(include="all"))
 
 st.subheader("Total Records")
