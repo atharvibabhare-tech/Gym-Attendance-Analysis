@@ -50,3 +50,6 @@ The analysis highlights attendance patterns and peak time periods, which can hel
 
 ## Author
 - Atharvi Babhare
+
+## 🌐 Live Demo
+[Click Here to View Live App](https://gym-attendance-analysis-hz3ty26ikzu8xpztwdprsd.streamlit.app/)
